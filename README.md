@@ -113,4 +113,6 @@ The regression suite was consolidated into `tests/test_app.py`. Results are repo
 
 ## AI tools disclosure
 
-AI assistance was used to help inspect and refactor the existing implementation, consolidate modules and tests, draft documentation, and review the SQL queries. The original implementation and regression tests were retained as the basis for the refactor; test outcomes are recorded after execution rather than assumed.
+AI tools were used throughout the project lifecycle, including planning, implementation, debugging, testing, and documentation. They assisted with designing the project structure, refining the matching algorithm, developing and refactoring application modules, reviewing SQL queries, identifying and resolving errors, and preparing and reviewing automated tests.
+
+The implementation was tested using the project's automated test suite, and the reported test results reflect actual test execution. AI assistance supported the development and verification process, while the final code, functionality, and test results were reviewed as part of the project workflow.
